@@ -70,6 +70,3 @@ An AutoCAD 3D model of the function hall is included in this project. It helps i
 - Better understanding of construction budgeting  
 
 ---
-## Author
-
-Civil Engineering / Construction Estimation Project
