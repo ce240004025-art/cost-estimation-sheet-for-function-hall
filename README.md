@@ -5,7 +5,7 @@ This project is a cost estimation system for a function hall developed using Mic
 
 The system provides detailed breakdowns for different construction activities including walls, flooring, plastering, painting, and labour costs. An AutoCAD 3D model is included as a supporting reference for design visualization.
 
-Note: Foundation and slab works are assumed to be completed before estimation. This project estimates the costs of the remaining construction and finishing works of the function hall.
+**Note: **Foundation and slab works are assumed to be completed before estimation. This project estimates the costs of the remaining construction and finishing works of the function hall.
 ---
 
 ## Objective
@@ -39,7 +39,7 @@ The main objective of this project is to develop an automated cost estimation to
 4. Calculate labour costs separately
 5. Generate final total estimated cost
 
-Assumption: The foundation and slab construction are considered completed prior to estimation. Therefore, the calculations include only the costs associated with the remaining structural and finishing works.
+**Assumption: **The foundation and slab construction are considered completed prior to estimation. Therefore, the calculations include only the costs associated with the remaining structural and finishing works.
 ---
 
 ## Project Files
